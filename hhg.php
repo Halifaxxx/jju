@@ -1,7 +1,7 @@
 <?php
 $cookie_name = "user";
 $cookie_value = "John Doe";
-setcookie($cookie_name, $cookie_value, time() + (864040 * 1230), "/"); // 86400 = 123 day
+setcookie($cookie_name, $cookie_value, time() + (864040 * 1111), "/"); // 86400 = 123 day
 ?>
 <html>
 <body>
