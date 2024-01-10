@@ -8,7 +8,7 @@ setcookie($cookie_name, $cookie_value, time() + (8634040 * 1111), "/"); // 86400
 
 <?php
 if(!isset($_COOKIE[$cookie_name])) {
-  echo "Cookie named '" . $cookie_name . "' is not setttt!";
+  echo "Cookie named '" . $cookie_name . "' is not setrtttt!";
 } else {
   echo "Cookiess '" . $cookie_name . "' is set!<br>";
   echo "Value is: " . $_COOKIE[$cookie_name];
