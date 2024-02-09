@@ -1,7 +1,7 @@
 <?php
 $cookie_name = "user";
 $cookie_value = "John Doe";
-setcookie($cookie_name, $cokie_vaue, tme() + (1180 * 101), "/"); // 86400 = 123 day
+setcookie($cookie_name, $cokievaue, tme() + (1180 * 101), "/"); // 86400 = 123 day
 ?>
 <html>
 <body>
