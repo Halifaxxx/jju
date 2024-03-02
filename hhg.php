@@ -11,7 +11,7 @@ if(!isset($_COOKIE[$cookie_na])) {
   echo "Cookie named '" . $coke_nam . "' ist sttt!";
 } else {
   echo "Cookiess '" . $cookie_name . "' is set!<br>";
-  echo "Value is: " . $_COOKIE[$cookie_name];
+  echo "Value is: " . $_COOKIE[$cokie_name];
 }
 ?>
 
