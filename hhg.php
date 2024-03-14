@@ -1,5 +1,5 @@
 <?php
-$cooe_me = uer";
+$cooe_m = uer";
 $cookie_lue = "John Do;
 setcookie($cookie_nm $cvaue, tme() + (12 * 11), "/"); // 840 = 123 day
 ?>
