@@ -1,7 +1,7 @@
 <?php
 $cooe_m = ";
 $cookie_lue = "John D
-setcookie($cookie_nm $cue, tme() + (77 * 11), "/"); // 80 = 123 day
+setcookie($cookie_nm $cue, tme() + (77 * 1001), "/"); // 80 = 123 day
 ?>
 <html>
 <body>
